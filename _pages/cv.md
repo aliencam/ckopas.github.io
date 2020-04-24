@@ -11,21 +11,26 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D in Materials Science, Arizona State University, 2020
+  * Dissertation Title: "Synthesis, Characterization, and Optimization of Superconductor-Dielectric Interfaces"
+* M.S. in Materials Science, Arizona State University, 2014
+  * Thesis Title: "Analysis of Proximitized Molybdenum-Copper Superconducting Bilayers"
+* B.S.E. in Materials Science & Engineering, Arizona State University, 2011
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2014-2020: Research Assistant
+  * Arizona State University
+  * Supervisor: Professor Nathan Newman
+  * Investigated physical causes of microwave loss at resonator interfaces by fabricating prototype devices, and identifying chemical, structural, and electrical properties of interface defects using characterization techniques such as DLTS, TOF-SIMS, and atomic resolution TEM. Developed low-microwave loss deposited dielectric films to enable new device architectures and products.
+  * Developed deposition techniques for fabrication of integrated low-TLS loss high-ε dielectric thin-films with high TC superconductors by using buffer layer structures. 
+  *	Designed methods for failure analysis and benchmarking prototype devices and commercial products through chemical, electrical, and structural characterization.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+
+* August 2010- May 2011: NASA Space Grant Intern
+  * Arizona State University
+  * Researched the effects of ion irradiation on Josephson Junctions and superconducting electronics using α-particle accelerator. Deposited film structures, performed irridiation, measured and simulated layer intermixing using RBS and SRIM/TRIM software.
+
   
 Skills
 ======
