@@ -2,7 +2,7 @@
 title: "Experimental study of the kinetically-limited decomposition of ZnGeAs2 and its role in determining optimal conditions for thin film growth"
 collection: publications
 permalink: /publication/2012-ZnGeAs2
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+excerpt: ''
 date: 2012-01-01
 venue: 'Journal of Crystal Growth'
 paperurl: 'https://www.sciencedirect.com/science/article/pii/S0022024811009171'
