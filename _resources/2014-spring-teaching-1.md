@@ -1,20 +1,17 @@
 ---
-title: "Teaching experience 1"
+title: "Hall Measurement Program"
 collection: resources
-type: "Undergraduate course"
-permalink: /resources/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+type: "Program"
+permalink: /resources/HallVander
+
+date: 2010-01-11
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+This is a LabView program for measuring Hall and Van der Pauw resistivity of a specimen. The program was originally written by Lei Yu, and modified by many other students over the years including Alex Davenport, Alex Wertheim, Aditya Ravi, and me.
 
-Heading 1
+Download zipfile: [hallvander-Nov2019.zip](https://aliencam.github.io/resources/hallvander-Nov2019.zip)
+
+Required Setup:
 ======
 
-Heading 2
-======
 
-Heading 3
-======
