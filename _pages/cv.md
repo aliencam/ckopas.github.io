@@ -69,21 +69,11 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+Conferences
 ======
 * Session Chair: Lawrence Workshop on Solid-State Technology (Februrary 2019)
 * Session Chair: Lawrence Symposium on Epitaxy (Februrary 2020)
 
-[//]: # <ul>{% for post in site.talks %}
-[//]: #    {% include archive-single-talk-cv.html %}
-[//]: #  {% endfor %}</ul>
-[//]: #  
-[//]: #Teaching
-[//]: #======
-[//]: #<ul>{% for post in site.teaching %}
-[//]: #    {% include archive-single-cv.html %}
-[//]: #  {% endfor %}</ul>
-[//]: #
 
 Service and leadership
 ======
