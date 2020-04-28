@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 header:
-  image: PLD-firing.jpg
+  image: PLD-firing-scaled.jpg
   image_description: "the Pulsed Laser Deposition system"
   image_caption: "laser firing into a Pulsed Laser Deposition system"
 ---
