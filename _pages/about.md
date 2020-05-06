@@ -17,7 +17,7 @@ Hi, I'm Cameron Kopas, an experimental physicist and recent PhD graduate from Ar
 This site has a combination of my academic and public work, you can find: 
 * My complete [CV](https://aliencam.github.io/cv/)
 * A list of available [Publications](https://aliencam.github.io/publications/)
-  * If you can't get access to any of the papers, get in touch and I can send them to you
+  * If you don't have access to any of the papers, get in touch and I can send them to you
 * [Laboratory Resources](https://aliencam.github.io/resources/), including instrument interface programs, tutorial videos, and instrument procedures
 * A [Portfolio](https://aliencam.github.io/portfolio/) of lab instruments and systems that I have managed. 
 
