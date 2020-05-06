@@ -8,6 +8,7 @@ redirect_from:
   - /about.html
 header:
   overlay_image: PLD-firing-scaled.jpg
+  # don't use "image" because it shows full size, expanding to full width
   image_description: "the Pulsed Laser Deposition system"
   
   image_caption: "laser firing into a Pulsed Laser Deposition system"
