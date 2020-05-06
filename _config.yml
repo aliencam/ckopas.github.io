@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Cameron Kopas, PhD"
+title                    : "Cameron Kopas, Ph.D."
 title_separator          : "-"
 name                     : &name "Cameron Kopas"
 description              : &description "personal description"
