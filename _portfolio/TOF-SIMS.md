@@ -1,6 +1,6 @@
 ---
 title: "TOF-SIMS"
-excerpt: "Time of Flight Secondary Ion Mass Spectrometry<br/><img src='images/SIMS-500x333.jpg'>"
+excerpt: "Time of Flight Secondary Ion Mass Spectrometry<br/><img src='/images/SIMS-500x333.jpg'>"
 collection: portfolio
 ---
 
