@@ -20,5 +20,5 @@ This site has a combination of my academic and public work, you can find:
 * [Laboratory Resources](https://www.cameronkopas.com/resources/), including instrument interface programs, tutorial videos, and instrument procedures
 * A [Portfolio](https://www.cameronkopas.com/portfolio/) of lab instruments and systems that I have managed. 
 
-If you would like to contact me before I set up a contact page, please use Twitter, LinkedIn, or ResearchGate.
+If you would like to contact me before I set up a contact page, send an email to [first name].[last initial]  at gmail, or contact me on Twitter, LinkedIn, or ResearchGate.
 
