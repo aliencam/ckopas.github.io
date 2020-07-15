@@ -71,8 +71,9 @@ Publications
   
 Conferences
 ======
-* Session Chair: Lawrence Workshop on Solid-State Technology (Februrary 2019)
 * Session Chair: Lawrence Symposium on Epitaxy (Februrary 2020)
+* Session Chair: Lawrence Workshop on Solid-State Technology (Februrary 2019)
+* [In-situ characterization of performance degrading defects in superconductor- dielectric microwave resonators](https://www.cameronkopas.com/talks/2016-09-20-epr) (Workshop on Low Temperature Electronics, September 2016)
 
 
 Service and leadership
