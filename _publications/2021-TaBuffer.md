@@ -1,7 +1,7 @@
 ---
 title: "(preprint) Ge thin-films with tantalum diffusion-barriers for use in Nb-based superconductor technology."
 collection: publications
-permalink: /publication/2020-TaBuffer
+permalink: /publication/2021-TaBuffer
 excerpt: 'Tantalum interdiffusion barrier layers are used to decrease intermixing and microwave loss in Nb-Ge superconducting microwave resonators.'
 date: 2021-04-26
 venue: 'arXiv'
